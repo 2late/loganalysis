@@ -1,7 +1,6 @@
-# Overview
+# Assumptions
 
-```mermaid
-graph LR
-  A --> B
+# Diagram
+![Diagram](Diagram.jpg?raw=true "Diagram")
 
-```
+# Description
